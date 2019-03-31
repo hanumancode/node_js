@@ -1,0 +1,26 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "Node demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanumancode/node_js.git"
+  },
+  "author": "GLJ Media",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanumancode/node_js/issues"
+  },
+  "homepage": "https://github.com/hanumancode/node_js#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
